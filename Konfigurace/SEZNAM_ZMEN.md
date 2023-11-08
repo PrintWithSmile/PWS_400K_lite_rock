@@ -1,1 +1,1 @@
-v0.1 - první verze github konfigurací pro PWS400K lite v českém jazyce 
+v0.1 - první verze github konfigurací pro PWS400K lite v českém jazyce
